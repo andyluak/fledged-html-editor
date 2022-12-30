@@ -1,0 +1,6 @@
+.sp-tabs div {
+  gap: 1rem;
+}
+.sp-read-only {
+  display: none;
+}
